@@ -1,0 +1,32 @@
+.screen {
+    background-color: #370617;
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    flex-wrap:wrap;
+    justify-content: space-around;
+    align-content: space-around;
+}
+
+.container {
+    background-color: #F48C06;
+    border-radius: 6px;
+    position: relative;
+    width: 468px;
+    height: 160px;
+    padding: 20px; 
+    display: flex;
+    justify-content: space-between;
+}
+
+.card {
+    background-color:#9D0208;
+    border: 3px white solid;
+    min-width: 78px;
+    min-height: 78px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-basis: 100px;
+}
