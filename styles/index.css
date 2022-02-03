@@ -44,6 +44,14 @@
     align-items: stretch;
 }
 
+<<<<<<< Updated upstream
+=======
+.container__elem3 {
+    align-items: center;
+    justify-content: flex-end;
+}
+
+>>>>>>> Stashed changes
 .container__elem3 {
     align-items: center;
     justify-content: flex-end;
