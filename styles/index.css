@@ -44,10 +44,10 @@
     align-items: stretch;
 }
 
+
+/*what if just remove the entire section that is marked conflict blablabla*/
+
 .container__elem3 {
     align-items: center;
     justify-content: flex-end;
 }
-
-/*I'm not getting how to structure the tree for the 
-  boxes where the squares line up differently*/
