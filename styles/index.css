@@ -56,7 +56,10 @@
     justify-content: flex-end;
 }
 
-/*I'm not getting how to structure the tree for the 
-<<<<<<< Updated upstream
-  boxes where the squares line up differently*/
+/*I just don't get how to realign the red squares in the last 
+3 boxes. something about my classes/BEM structure i think*/
 
+.container__elem4 {
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
